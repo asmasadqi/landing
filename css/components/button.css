@@ -1,0 +1,10 @@
+.btn-cta {
+  display: inline-block;
+  text-decoration: none;
+  background-color: #0067A3;
+  color: #fff;
+  font-size: 1rem;
+  line-height: 1rem;
+  padding: 15px 25px;
+  border-radius: 50px;
+}

@@ -1,0 +1,30 @@
+.cards {
+  margin: 30px -20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  border-radius: 5px;
+}
+
+.card {
+  padding: 25px 15px;
+  margin: 10px;
+  background-color: white;
+  border: 1px solid #efefef;
+  width: 100%;
+  max-width: 240px;
+  text-align: center;
+  box-shadow: 0 0 5px #efefef;
+}
+.card > img {
+  height: 150px;
+}
+
+.card h3 {
+  color: #000E19;
+}
+
+.card p {
+  color: #cccccc;
+}

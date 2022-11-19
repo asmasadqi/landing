@@ -1,0 +1,25 @@
+.banner {
+  height: 600px;
+  width: 100%;
+  background-image: url('../../images/background_matrix.jpg');
+  background-size: cover;
+}
+
+.banner .container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: white;
+  height: 100%;
+}
+
+.banner h1 {
+  font-size: 40px;
+  line-height: 48px;
+  margin: 0;
+}
+.banner p {
+  margin-top: 16px;
+  font-size: 20px;
+  line-height: 28px;
+}

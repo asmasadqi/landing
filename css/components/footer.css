@@ -1,0 +1,26 @@
+footer {
+  padding: 50px 15px;
+  background-color: #000E19;
+  color: #fff;
+  text-align: center;
+}
+
+footer .social-links {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.social-links .fab {
+  padding: 10px;
+  width: 50px;
+  font-size: 30px;
+  color: #82c0cc;
+}
+
+footer p .fa-heart {
+  color: #ff6584;
+}
